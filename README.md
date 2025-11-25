@@ -254,6 +254,16 @@ It reflects how retail companies track performance and optimize sales & marketin
 
 ---
 
+## 🚀 Business Impact
+This analysis helps Ferns & Petals:
+
+- Identify profitable categories (Colors, Cakes, Plants)
+- Plan inventory for high-demand festivals (Diwali, Raksha Bandhan)
+- Improve delivery operations (reduce 6.2-day avg delivery time)
+- Personalize marketing based on gender & city insights
+
+---
+
 ## 🧰 Skills Demonstrated
 - ETL Pipeline  
 - Data Cleaning  

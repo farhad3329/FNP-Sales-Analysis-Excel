@@ -11,6 +11,41 @@ A complete **end-to-end sales analysis project** following a real **industry-lev
 
 ---
 
+## 🧩 Business Problem
+
+Ferns & Petals is a popular gifting brand offering products such as cakes, flowers, plants, and personalized gifts. Despite its wide presence, the company faces several key challenges related to sales performance, customer behavior, and operational efficiency.
+
+### 🔻 Key Challenges
+
+* Unclear sales trends across months, cities, and product categories
+* No clear visibility of top-performing products and occasions
+* Delivery time fluctuations affecting customer satisfaction
+* Inconsistent revenue across festivals and special occasions
+* Limited understanding of gender-wise and city-wise customer behavior
+* Lack of actionable insights from raw transactional data
+
+### 📌 Why This Analysis Was Needed
+
+The company aims to answer critical questions such as:
+
+* Which **product categories** drive the most revenue?
+* Which **cities** are performing well or underperforming?
+* How do **customer demographics** impact purchase behavior?
+* What **occasions** generate peak sales?
+* Where can **delivery operations** be improved?
+
+### 🎯 Business Goal
+
+Transform raw sales data into meaningful insights to help the company:
+
+* Improve marketing and promotional strategies
+* Optimize delivery operations
+* Identify and focus on high-performing products
+* Understand customer buying trends
+* **Boost overall sales performance**
+
+---
+
 ## 📘 Project Overview
 
 The **Ferns & Petals Sales Analysis** project analyzes sales performance across **products, categories, cities, occasions, customers, and time periods**.

